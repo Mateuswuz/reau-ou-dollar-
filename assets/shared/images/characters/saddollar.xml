@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="saddollar.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fastcash cutscene0000" x="0" y="0" width="650" height="661" pivotX="-148.2" pivotY="-7.65" frameX="-190" frameY="-43" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0001" x="0" y="0" width="650" height="661" frameX="-190" frameY="-43" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0002" x="650" y="0" width="766" height="670" frameX="-74" frameY="-34" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0003" x="1416" y="0" width="840" height="704" frameX="0" frameY="0" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0004" x="2256" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0005" x="2256" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0006" x="2984" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0007" x="2984" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0008" x="0" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0009" x="0" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0010" x="728" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0011" x="728" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0012" x="1456" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0013" x="1456" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0014" x="2184" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0015" x="2184" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0016" x="2184" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0017" x="2184" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0018" x="2256" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0019" x="2256" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0020" x="2984" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0021" x="2984" y="0" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0022" x="0" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0023" x="0" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0024" x="728" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="fastcash cutscene0025" x="728" y="704" width="728" height="592" frameX="-211" frameY="-87" frameWidth="939" frameHeight="704"/>
+	<SubTexture name="sad cash down0000" x="2912" y="704" width="645" height="601" pivotX="268.75" pivotY="264.65"/>
+	<SubTexture name="sad cash down0001" x="2912" y="704" width="645" height="601"/>
+	<SubTexture name="sad cash down0002" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0003" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0004" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0005" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0006" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0007" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0008" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0009" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0010" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0011" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0012" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash down0013" x="0" y="1305" width="645" height="601"/>
+	<SubTexture name="sad cash idle0000" x="645" y="1305" width="650" height="631" pivotX="272.05" pivotY="271.75"/>
+	<SubTexture name="sad cash idle0001" x="645" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0002" x="1295" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0003" x="1295" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0004" x="1945" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0005" x="1945" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0006" x="2595" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0007" x="2595" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0008" x="3245" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0009" x="3245" y="1305" width="650" height="631"/>
+	<SubTexture name="sad cash idle0010" x="0" y="1936" width="650" height="631"/>
+	<SubTexture name="sad cash idle0011" x="0" y="1936" width="650" height="631"/>
+	<SubTexture name="sad cash idle0012" x="0" y="1936" width="650" height="631"/>
+	<SubTexture name="sad cash idle0013" x="0" y="1936" width="650" height="631"/>
+	<SubTexture name="sad cash left0000" x="650" y="1936" width="616" height="585" pivotX="253.7" pivotY="274.25"/>
+	<SubTexture name="sad cash left0001" x="650" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0002" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0003" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0004" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0005" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0006" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0007" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0008" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0009" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0010" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0011" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0012" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash left0013" x="1266" y="1936" width="616" height="585"/>
+	<SubTexture name="sad cash right0000" x="1882" y="1936" width="651" height="593" pivotX="253.45" pivotY="273.4"/>
+	<SubTexture name="sad cash right0001" x="1882" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0002" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0003" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0004" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0005" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0006" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0007" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0008" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0009" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0010" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0011" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0012" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash right0013" x="2533" y="1936" width="651" height="593"/>
+	<SubTexture name="sad cash up0000" x="3184" y="1936" width="632" height="690" pivotX="251.25" pivotY="360"/>
+	<SubTexture name="sad cash up0001" x="3184" y="1936" width="632" height="690"/>
+	<SubTexture name="sad cash up0002" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0003" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0004" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0005" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0006" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0007" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0008" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0009" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0010" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0011" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0012" x="0" y="2626" width="632" height="690"/>
+	<SubTexture name="sad cash up0013" x="0" y="2626" width="632" height="690"/>
+</TextureAtlas>

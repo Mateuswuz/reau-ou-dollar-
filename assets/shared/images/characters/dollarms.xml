@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cash down0000" x="0" y="0" width="645" height="567" pivotX="343.75" pivotY="230.45"/>
+	<SubTexture name="cash down0001" x="0" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0002" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0003" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0004" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0005" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0006" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0007" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0008" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0009" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0010" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0011" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0012" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash down0013" x="645" y="0" width="645" height="567"/>
+	<SubTexture name="cash idle0000" x="1290" y="0" width="747" height="613" pivotX="299.75" pivotY="271.7"/>
+	<SubTexture name="cash idle0001" x="1290" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0002" x="2037" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0003" x="2037" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0004" x="2784" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0005" x="2784" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0006" x="3531" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0007" x="3531" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0008" x="4278" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0009" x="4278" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0010" x="5025" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0011" x="5025" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0012" x="5025" y="0" width="747" height="613"/>
+	<SubTexture name="cash idle0013" x="5025" y="0" width="747" height="613"/>
+	<SubTexture name="cash left0000" x="5772" y="0" width="553" height="585" pivotX="367.75" pivotY="274.25"/>
+	<SubTexture name="cash left0001" x="5772" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0002" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0003" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0004" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0005" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0006" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0007" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0008" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0009" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0010" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0011" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0012" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash left0013" x="6325" y="0" width="553" height="585"/>
+	<SubTexture name="cash right0000" x="6878" y="0" width="729" height="593" pivotX="253.4" pivotY="273.4"/>
+	<SubTexture name="cash right0001" x="6878" y="0" width="729" height="593"/>
+	<SubTexture name="cash right0002" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0003" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0004" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0005" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0006" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0007" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0008" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0009" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0010" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0011" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0012" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash right0013" x="0" y="613" width="729" height="593"/>
+	<SubTexture name="cash up0000" x="729" y="613" width="562" height="690" pivotX="251.2" pivotY="360"/>
+	<SubTexture name="cash up0001" x="729" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0002" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0003" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0004" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0005" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0006" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0007" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0008" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0009" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0010" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0011" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0012" x="1291" y="613" width="562" height="690"/>
+	<SubTexture name="cash up0013" x="1291" y="613" width="562" height="690"/>
+</TextureAtlas>
