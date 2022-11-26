@@ -1,0 +1,49 @@
+{
+	"storyName": "Dollor Man",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dollar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Conductor",
+			"icon-ms",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"Payroll",
+			"icon-dollar",
+			[
+				131,
+				168,
+				109
+			]
+		],
+		[
+			"Fast-Cash",
+			"icon-dollar",
+			[
+				131,
+				168,
+				109
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
