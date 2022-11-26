@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="behindbop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="behindbop0000" x="0" y="0" width="875" height="443" pivotX="13.55" pivotY="18.6" frameX="0" frameY="-15" frameWidth="875" frameHeight="458"/>
+	<SubTexture name="behindbop0001" x="875" y="0" width="873" height="451" frameX="-1" frameY="-7" frameWidth="875" frameHeight="458"/>
+	<SubTexture name="behindbop0002" x="875" y="0" width="873" height="451" frameX="-1" frameY="-7" frameWidth="875" frameHeight="458"/>
+	<SubTexture name="behindbop0003" x="0" y="451" width="864" height="457" frameX="-5" frameY="-1" frameWidth="875" frameHeight="458"/>
+	<SubTexture name="behindbop0004" x="0" y="451" width="864" height="457" frameX="-5" frameY="-1" frameWidth="875" frameHeight="458"/>
+	<SubTexture name="behindbop0005" x="864" y="451" width="861" height="458" frameX="-7" frameY="0" frameWidth="875" frameHeight="458"/>
+</TextureAtlas>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metal-clank.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clank0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="clank0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0004" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0005" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0006" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0007" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0008" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0009" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0010" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0011" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="clank0012" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0013" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0014" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0015" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0016" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0017" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0018" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0019" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0020" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0021" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0022" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0023" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0024" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0025" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0026" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0027" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0028" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0029" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0030" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0031" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="clank0032" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0033" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0034" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0035" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0036" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0037" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0038" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0039" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0040" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0041" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0042" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0043" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="clank0044" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0045" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0046" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0047" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0048" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0049" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0050" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0051" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0052" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0053" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0054" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0055" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="clank0056" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0057" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0058" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0059" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0060" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0061" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0062" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0063" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="clank0064" x="0" y="2880" width="1280" height="720"/>
+</TextureAtlas>

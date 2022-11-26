@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontbop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frontbop0000" x="0" y="0" width="1583" height="349" pivotX="198.75" pivotY="-277" frameX="0" frameY="-3" frameWidth="1583" frameHeight="352"/>
+	<SubTexture name="frontbop0001" x="0" y="349" width="1550" height="349" frameX="-19" frameY="-1" frameWidth="1583" frameHeight="352"/>
+	<SubTexture name="frontbop0002" x="0" y="349" width="1550" height="349" frameX="-19" frameY="-1" frameWidth="1583" frameHeight="352"/>
+	<SubTexture name="frontbop0003" x="0" y="698" width="1511" height="348" frameX="-42" frameY="0" frameWidth="1583" frameHeight="352"/>
+	<SubTexture name="frontbop0004" x="0" y="698" width="1511" height="348" frameX="-42" frameY="0" frameWidth="1583" frameHeight="352"/>
+	<SubTexture name="frontbop0005" x="0" y="1046" width="1510" height="348" frameX="-42" frameY="0" frameWidth="1583" frameHeight="352"/>
+</TextureAtlas>
