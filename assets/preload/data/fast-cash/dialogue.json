@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "conflicted",
+			"text": "Hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "conflicted",
+			"text": "I thought this was just a happy friendly singing thingy to get your girlfriend's attention!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "conflicted",
+			"text": "Not a rap battle!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfobject",
+			"boxState": "normal",
+			"expression": "cool",
+			"text": "Pissbaby"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfobject",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "The music didn't even sound happy anyway"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "cry",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "cry",
+			"text": "Metal Square, do you have happy music?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ms",
+			"boxState": "normal",
+			"expression": "tounge",
+			"text": "Ew Happy music is cringe!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dollar",
+			"boxState": "normal",
+			"expression": "confuse",
+			"text": "oh"
+		}
+	]
+}
