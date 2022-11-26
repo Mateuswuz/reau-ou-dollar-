@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				320,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cat idle"
+		},
+		{
+			"offsets": [
+				270,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cat left"
+		},
+		{
+			"offsets": [
+				291,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cat down"
+		},
+		{
+			"offsets": [
+				254,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cat up"
+		},
+		{
+			"offsets": [
+				311,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cat right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cassie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cassie",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		255,
+		255
+	],
+	"camera_position": [
+		-260,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

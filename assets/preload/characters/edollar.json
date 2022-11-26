@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "evilmoney idle"
+		},
+		{
+			"offsets": [
+				161,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "evilmoney right"
+		},
+		{
+			"offsets": [
+				254,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "evilmoney up"
+		},
+		{
+			"offsets": [
+				291,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "evilmoney down"
+		},
+		{
+			"offsets": [
+				250,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "evilmoney left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/edollar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "edollar",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-290,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

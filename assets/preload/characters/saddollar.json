@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-54
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sad cash idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sad cash right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sad cash up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				-61
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sad cash down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sad cash left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				421,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die",
+			"indices": [],
+			"name": "fastcash cutscene"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/saddollar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-dollar",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		168,
+		109
+	],
+	"camera_position": [
+		-540,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

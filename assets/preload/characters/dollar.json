@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cash idle"
+		},
+		{
+			"offsets": [
+				154,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cash up"
+		},
+		{
+			"offsets": [
+				250,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cash left"
+		},
+		{
+			"offsets": [
+				291,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cash down"
+		},
+		{
+			"offsets": [
+				168,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cash right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dollar",
+	"position": [
+		20,
+		0
+	],
+	"healthicon": "icon-dollar",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		168,
+		109
+	],
+	"camera_position": [
+		-310,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
