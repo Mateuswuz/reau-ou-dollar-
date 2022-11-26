@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "O",
+			"text": "You don't belong here, don't you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfobject"
+		},
+		{
+			"expression": "confuse",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "shocked",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfobject"
+		},
+		{
+			"expression": "memey",
+			"text": "So you like chicken nuggets?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "shocked",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfobject"
+		},
+		{
+			"expression": "talk",
+			"text": "I need to find my girlfriend!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfobject"
+		},
+		{
+			"expression": "confuse",
+			"text": "Sorry man, I don't know how to find missing people",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "talk",
+			"text": "Singing might get her attention",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfobject"
+		},
+		{
+			"expression": "talk",
+			"text": "I know someone who can help!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "talk",
+			"text": "Metal Square!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "suprised",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ms"
+		},
+		{
+			"expression": "memey",
+			"text": "s i n g .",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "mad",
+			"text": "You sing instead, Loser",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ms"
+		},
+		{
+			"expression": "cry",
+			"text": ":C",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dollar"
+		},
+		{
+			"expression": "talk",
+			"text": "But sure, I'll warm him up!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ms"
+		}
+	]
+}
