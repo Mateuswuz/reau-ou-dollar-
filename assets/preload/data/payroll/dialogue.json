@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ms",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Cool, you're decent"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ms",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Dollar, your turn."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cookie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Guys look! Dollar is up against a degenerate! Let's watch!"
+		}
+	]
+}
